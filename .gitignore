@@ -1,1 +1,3 @@
-/PCBv2/PCBv2/PCBv2-backups
+*-backups
+.vscode
+fp-info-cache
